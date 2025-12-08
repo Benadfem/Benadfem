@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Adedoyin! 👋
+### Data Analyst | Software Developer
 
-<!--
-**Benadfem/Benadfem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in turning raw data into business insights and building efficient software solutions.
 
-Here are some ideas to get you started:
+#### 📊 Data Analysis Projects (Look here for Analyst Roles!)
+*   **[Project Name 1]:** Analyzed Nigerian inflation trends using Python & Power BI.
+*   **[Project Name 2]:** SQL queries for Student Performance analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📱 Software Development Projects
+*   **[School Management System]:** A Python/MySQL app for managing student records.
+*   **[Weather App]:** A Flutter app using REST APIs.
+
+---
+**Tech Stack:** Python (Pandas), SQL, Power BI, Flutter, Dart.
