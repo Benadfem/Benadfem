@@ -1,50 +1,52 @@
-# Hi, I'm Adedara Benson (Benadfem) 👋 
-### B.Sc. Computer Science | Agentic Systems Engineer | Full-Stack Developer
+# Hi, I'm Adedara Benson 👋 
+### Agentic Systems Architect | Backend Infrastructure Specialist
 
-I bridge the gap between academic Computer Science and the 2026 Era of Agentic Implementation. I specialize in building autonomous Python-driven workflows, high-performance FastAPI backends, and responsive React interfaces.
+I build the "nervous systems" for autonomous AI. My expertise lies in bridging high-performance **FastAPI backends** with **Agentic reasoning loops** to automate complex digital workflows.
 
-- 🔭 **Current Focus:** Migrating legacy logic into **Agentic State Machines** using LangGraph and PydanticAI.
-- 🎓 **Credentials:** B.Sc. Computer Science + Harvard CS50P (Scientific Python Specialization).
-- ⚡ **2026 Goal:** Orchestrating digital workforces through secure, scalable Cloud-native architectures.
+- 🤖 **Current Focus:** Developing **Self-Healing Workflows** using LangGraph, PydanticAI, and Tool-Calling.
+- 🏗️ **Architecture:** Scaling Python-driven backends with No-GIL concurrency and SQLAlchemy persistence.
+- 🎓 **Foundation:** B.Sc. Computer Science & Harvard CS50P (Scientific Python).
+- ⚡ **2026 Vision:** Orchestrating resilient AI workforces through Cloud-native, secure architectures.
 
 ---
 
-### 🛠️ The 2026 Tech Stack
+### 🧰 The Agentic Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Agentic AI** | **LangGraph**, PydanticAI, Tool Calling, OpenAI/Claude APIs, Vector DBs |
-| **Backend** | **Python 3.14 (Asyncio)**, **FastAPI**, PostgreSQL, No-GIL Concurrency |
-| **Frontend** | **React (Angela Yu Stack)**, Tailwind CSS, Flutter, Dart |
-| **Data & Core** | Pandas, SQL, Pytest (Harvard Logic), Power BI |
-| **DevOps** | Git/GitHub Actions (CI/CD), Docker, AWS Bedrock |
+| **Agentic AI** | **LangGraph**, PydanticAI, Tool-Calling, OpenAI/Claude SDKs, Vector Databases |
+| **Backend (Core)** | **Python 3.14 (Asyncio)**, **FastAPI**, SQLAlchemy, Pydantic v2 |
+| **Persistence** | **PostgreSQL**, SQLite, Redis (State Management), Alembic Migrations |
+| **Frontend/UX** | **React**, Tailwind CSS (Visualizing AI Reasoning Chains) |
+| **DevOps/QA** | **Pytest (100% Coverage)**, Docker, GitHub Actions CI/CD |
 
 ---
 
-### 🚀 Featured Agentic Projects
+### 🚀 Featured Engineering Projects
 
-#### 💰 [Wealth-Pilot (Budget-App 2.0)](https://github.com/Benadfem/Budget-App)
-*Evolution of a legacy budgeting tool into an autonomous financial agent.*
-- **Agentic Twist:** Implemented an automated "Expense Classifier" agent using Python logic to scan bank statements and provide real-time savings advice.
-- **Tech:** FastAPI, Pydantic V3, React.
+#### 🤖 [Wealth-Pilot (Budget-App 2.0)](https://github.com/Benadfem/Budget-App)
+*Autonomous Financial Agent leveraging Tool-Calling for real-time fiscal intelligence.*
+- **Agentic Logic:** Engineered an automated classifier that reasons through bank statement data to identify savings opportunities.
+- **Tech:** LangGraph, FastAPI, Pydantic, React.
 
-#### 🏛️ [Harvard-Python Logic Suite](https://github.com/Benadfem/Harvard-Python)
-*Scientific foundation and clean code principles.*
-- **Focus:** Demonstrating 100% test coverage using **pytest**, Regular Expressions, and Object-Oriented Programming (OOP) to ensure "bulletproof" AI logic.
+#### 🔒 [Secure Task-Engine (FastAPI)](https://github.com/Benson-Adedara/TodoApp)
+*The foundational infrastructure for multi-user Agentic environments.*
+- **Key Implementation:** Full CRUD lifecycle with strict Pydantic validation and **JWT Authentication** (In-Progress).
+- **Purpose:** Serving as the secure environment for AI Agents to manage user-specific resources.
 
-#### 🌐 [AngelaYu-Fullstack Hub](https://github.com/Benadfem/AngelaYu-Fullstack)
-*The "Body" for my AI "Brains".*
-- **Focus:** Building modern, high-performance UI components in React to visualize complex Agentic reasoning steps.
-
----
-
-### 📊 GitHub Momentum
-![Benadfem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benadfem&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benadfem&layout=compact&theme=tokyonight)
+#### 🏛️ [Scientific Logic Suite (Harvard-Python)](https://github.com/Benadfem/Harvard-Python)
+*Ensuring "Bulletproof" Logic for AI Decision Making.*
+- **Focus:** Demonstrating 100% test coverage and robust OOP principles to ensure AI agents behave predictably.
 
 ---
 
-### 📫 Let's Build the Future
-- **LinkedIn:** [linkedin.com/in/adedara-benson](https://linkedin.com/in/adedarabenson)
-- **Portfolio:** 
-- **Availability:** Open for Remote Agentic Engineering Roles ($60k+) & High-Value Consulting.
+### 📊 System Activity & Momentum
+![Benson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benson-Adedara&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benson-Adedara&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect for Collaboration
+- **LinkedIn:** [linkedin.com/in/adedara-benson](https://linkedin.com/in/adedara-benson)
+- **GitHub:** [https://github.com/Benson-Adedara](https://github.com/Benson-Adedara)
+- **Availability:** Remote Agentic Engineering Roles & High-Value System Consulting.
